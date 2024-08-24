@@ -10,3 +10,6 @@ Dopo una panoramica di base il progetto prende in analisi un caso di studio prat
 Riferimenti su Github: [Taiwan-Credit-Default-Analysis-in-R](https://github.com/Avani10/Taiwan-Credit-Default-Analysis-in-R-/blob/master/README.md)
 
 Si segnalano anche gli altri riferimenti citati nella relazione.
+
+*Il documento allegato è tutelato dalla legge sul diritto d’autore (Legge 633/1941); il materiale può essere utilizzato nei termini di licenza 
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).*
