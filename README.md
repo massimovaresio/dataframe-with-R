@@ -11,5 +11,4 @@ Riferimenti su Github: [Taiwan-Credit-Default-Analysis-in-R](https://github.com/
 
 Si segnalano anche gli altri riferimenti citati nella relazione.
 
-*Il documento allegato è tutelato dalla legge sul diritto d’autore (Legge 633/1941); il materiale può essere utilizzato nei termini di licenza 
-[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).*
+*Il documento allegato è tutelato dalla normativa sul diritto d’autore; il materiale può essere utilizzato come descritto nei termini di licenza del file `LICENSE.md`*
